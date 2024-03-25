@@ -4,7 +4,7 @@
 
 <!-- Introduction Section -->
 <p align="center">
-  Welcome to my GitHub! I'm a final year college student deeply passionate about exploring the potential of AI, data science, and related technologies. Currently, I'm working on projects in Deep Learning, Digital Image Processing, Neural Networks, and Applied AI. Collaboration and innovation are at the core of my journey to create meaningful and impactful projects.
+  Welcome to my GitHub! I'm a final year college student deeply passionate about exploring the potential of Web Development, Full Stack Development and related technologies. Currently, I'm working on projects in Java Full Stack, Django, React, UI/UX Design, 3D Design, Machine Learning and Data Science . Collaboration and innovation are at the core of my journey to create meaningful and impactful projects.
 </p>
 
 <!-- Skills and Interests Section -->
