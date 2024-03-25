@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-green" alt="ML">
   <img src="https://img.shields.io/badge/-Data Science-orange" alt="Data Science">
   <img src="https://img.shields.io/badge/-React-red" alt="React">
-  <img src="https://img.shields.io/badge/-Django" alt="Django">
+  <img src="https://img.shields.io/badge/-Django-blue" alt="Django">
   <img src="https://img.shields.io/badge/-Web%20Development-blueviolet" alt="Web Development">
   <img src="https://img.shields.io/badge/-Full Stack Development-brightgreen" alt="Full Stack Development">
 </p>
@@ -37,13 +37,6 @@
 <p align="center">
   📧 Email: <a href="mailto:sarankumarjeyabalan@gmail.com">sarankumarjeyabalan@gmail.com</a><br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/sarankumar-jeyabalan-773581234/">Sarankumar J</a>
-</p>
-
-<!-- GitHub Readme Stats Section -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SarankumarJ&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="GitHub Stats" />
-  </a>
 </p>
 
 <!-- Footer Section -->
