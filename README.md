@@ -12,12 +12,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blue" alt="AI">
   <img src="https://img.shields.io/badge/-Machine%20Learning-green" alt="ML">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-orange" alt="DL">
-  <img src="https://img.shields.io/badge/-Digital%20Image%20Processing-red" alt="DIP">
-  <img src="https://img.shields.io/badge/-Neural%20Networks-purple" alt="NN">
-  <img src="https://img.shields.io/badge/-Applied%20AI-yellow" alt="Applied AI">
-  <img src="https://img.shields.io/badge/-Parallel%20Computing-blueviolet" alt="Parallel Computing">
-  <img src="https://img.shields.io/badge/-Embedded%20Board%20Design-brightgreen" alt="Embedded Board Design">
+  <img src="https://img.shields.io/badge/-Data Science-orange" alt="Data Science">
+  <img src="https://img.shields.io/badge/-React-red" alt="React">
+  <img src="https://img.shields.io/badge/-Django" alt="Django">
+  <img src="https://img.shields.io/badge/-Web%20Development-blueviolet" alt="Web Development">
+  <img src="https://img.shields.io/badge/-Full Stack Development-brightgreen" alt="Full Stack Development">
 </p>
 
 <!-- GitHub Stats Section -->
