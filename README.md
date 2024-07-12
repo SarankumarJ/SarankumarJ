@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi there, I'm Sarankumar</h1>
-<h3 align="center">Passionate about AI, Data Science, and Technology</h3>
+<h3 align="center">Passionate about AI, Data Science, Full-Stack, and Technology</h3>
 
 <!-- Introduction Section -->
 <p align="center">
